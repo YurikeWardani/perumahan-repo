@@ -17,7 +17,7 @@ Perumahan-repo adalah contoh projek company profile untuk sebuah jasa perumahan 
 ![2](https://user-images.githubusercontent.com/77722679/194992333-f0eb345f-ff0e-43ed-966b-32ae3729ec44.jpg)
 ![3](https://user-images.githubusercontent.com/77722679/194992344-d23ae249-dc2c-4736-b569-29553557ec05.jpg)
 
-- Produk (Detail produk dan harga
+- Produk (Detail produk dan harga)
 ![4](https://user-images.githubusercontent.com/77722679/194992786-d42c65f1-4ebb-4765-bc59-d75372f0bbbf.jpg)
 ![image](https://user-images.githubusercontent.com/77722679/194992880-af6bd81f-b659-4c6f-b554-592c8c02a7d7.png)
 ![image](https://user-images.githubusercontent.com/77722679/194992944-70734718-1e9c-4080-ab2a-3724d689d467.png)
